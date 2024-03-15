@@ -1,0 +1,25 @@
+13:22:52.005 [main] INFO  org.example.Main - Unesite svoje ime (samo slova): 
+13:22:55.230 [main] INFO  org.example.Main - Unesite broj kartice (samo brojevi): 
+13:22:56.032 [main] INFO  org.example.Main - Koji je glavni grad Francuske?
+13:22:57.475 [main] INFO  org.example.Main - Koja planeta u suncevom sistemu je poznata pod nazivom 'Crvena Planeta'?
+13:22:57.631 [main] INFO  org.example.Main - Ko je napisao roman 'Romeo i Julija'?
+Pitanje 1: Koji je glavni grad Francuske?
+Odgovor korisnika: 
+Tačan odgovor: Pariz
+-----------------------------------
+Pitanje 2: Koja planeta u suncevom sistemu je poznata pod nazivom 'Crvena Planeta'?
+Odgovor korisnika: 
+Tačan odgovor: Mars
+-----------------------------------
+Pitanje 3: Ko je napisao roman 'Romeo i Julija'?
+Odgovor korisnika: 
+Tačan odgovor: Sekspir
+-----------------------------------
+13:22:57.788 [main] INFO  org.example.Main - Test je zavrsen. Ostvarili ste 0 poena.
+13:25:17.574 [main] ERROR org.example.Main - Nepredviđena greška
+java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at org.example.Main.main(Main.java:19) [classes/:?]
+13:25:25.072 [main] ERROR org.example.Main - Nepredviđena greška
+java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at org.example.Main.main(Main.java:19) [classes/:?]
+13:26:11.608 [main] INFO  org.example.Main - Unesite svoje ime (samo slova): 

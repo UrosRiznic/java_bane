@@ -1,0 +1,10 @@
+Pitanje 1: Koji je glavni grad Francuske?
+Odgovor korisnika: 
+-----------------------------------
+Pitanje 2: Koja planeta u suncevom sistemu je poznata pod nazivom 'Crvena Planeta'?
+Odgovor korisnika: 
+-----------------------------------
+Pitanje 3: Ko je napisao roman 'Romeo i Julija'?
+Odgovor korisnika: 
+-----------------------------------
+Korisnik je imao '0' tačnih odgovora.

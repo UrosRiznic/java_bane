@@ -1,0 +1,4 @@
+enum PolovnaPorudzbina {
+    HOCU_POLOVICNU_PORUDZBINU,
+    NECU_POLOVICNU_PORUDZBINU
+}
